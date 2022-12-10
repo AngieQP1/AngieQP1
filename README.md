@@ -41,7 +41,7 @@ AngieQP1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Angie
 - STATA (Avanzado😎)
 - R (Intermedio👍)
 - PYTHON (Intermedio👍)
-- Machine Learning (Básico🙊)
+- Machine Learning (En proceso🙊)
 
 
 <!---
