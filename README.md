@@ -28,8 +28,21 @@ Sobre mi 👩🏻‍💻:
       
          }
 
+Estadísticas 📊:
+
+
 [![
 AngieQP1 GitHub stats](https://github-readme-stats.vercel.app/api?username=AngieQP1)](https://github.com/AngieQP1/github-readme-stats)
+
+
+
+👩🏻‍💻Niveles en Programación:
+
+- STATA (Avanzado😎)
+- R (Intermedio👍)
+- PYTHON (Intermedio👍)
+- Machine Learning (Básico🙊)
+
 
 <!---
 AngieQP1/AngieQP1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
