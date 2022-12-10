@@ -7,7 +7,7 @@
 Sobre mi 👩🏻‍💻:
 - 👀 Investigar is my passion
 - 💻 Indice de Empoderamiento de las Mujeres Peruanas(WEIP) con ENDES(2021) IN PROCESS!!💜
-- ⭐ Super fan de la programación con R, pero tambien veo python y stata😌
+- ⭐ Super fan de la programación con R, pero tambien veo python y stata
 - 💞️ Me encanta investigar sobre temas de empleo y salud con enfoque de género.
 
 🌱 Actualmente SOY:
