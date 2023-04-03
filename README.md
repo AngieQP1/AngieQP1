@@ -2,20 +2,21 @@
 <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="200" /> 
 </div>
 
-                                                 Holis, soy Angie Quispe!🌟 ☕ 🧠
+                                                 Hi, I'm Angie Quispe!🌟 ☕ 🧠
 
 Sobre mi 👩🏻‍💻:
-- 👀 Investigar is my passion
-- 💻 Indice de Empoderamiento de las Mujeres Peruanas(WEIP) con ENDES(2021) IN PROCESS!!💜
-- ⭐ Super fan de la programación con R, pero tambien veo python y stata
-- 💞️ Me encanta investigar sobre temas de empleo y salud con enfoque de género.
+- 👀 Research is my passion
+- 💻 Women Empowerment Index(WEI) with ENDES-PERU(2021) IN PROCESS!!💜
+- ⭐ Super fan of programming
+- 💞️ Interested in gender inequality, labor and public health.
 
-🌱 Actualmente SOY:
-- 🙋Estudiante de economía, entusiasta del Desarrollo
-- 💡 Research Assistant en Red de Estudios para el Desarrollo(REDES)
-- 📊JP de Estadística en PUCP
 
-- 📫 FOLLOW ME en mi cuentas activas:
+🌱 Currently:
+- 🙋Economics student, development enthusiast
+- 💡 Research Assistant
+- 📊Teaching Assistant
+
+- 📫 FOLLOW ME:
  
  
      { 
@@ -28,7 +29,7 @@ Sobre mi 👩🏻‍💻:
       
          }
 
-Estadísticas 📊:
+Statistics 📊:
 
 
 [![
@@ -38,10 +39,10 @@ AngieQP1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Angie
 
 👩🏻‍💻Niveles en Programación:
 
-- STATA (Avanzado😎)
-- R (Intermedio👍)
-- PYTHON (Intermedio👍)
-- Machine Learning (En proceso🙊)
+- STATA (Advanced😎)
+- R (Intermediate👍)
+- PYTHON (Intermediate👍)
+- MATLAB(Basic🙊)
 
 
 <!---
