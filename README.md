@@ -5,16 +5,15 @@
                                                  Hi, I'm Angie Quispe!🌟 ☕ 🧠
 
 Sobre mi 👩🏻‍💻:
-- 👀 Research is my passion
-- 💻 Women Empowerment Index(WEI) with ENDES-PERU(2021) IN PROCESS!!💜
-- ⭐ Super fan of programming
-- 💞️ Interested in gender inequality, labor and public health.
+-  Research is my passion
+-  Women Empowerment Index(WEI) with ENDES-PERU(2022)💜
+-  Interested in gender inequality, labor and public health.
 
 
 🌱 Currently:
-- 🙋Economics student, development enthusiast
-- 💡 Research Assistant
-- 📊Teaching Assistant
+- 🙋Econ. Development enthusiast
+- 💡 Research Analyst
+- 📊 Teaching Assistant
 
 - 📫 FOLLOW ME:
  
@@ -42,7 +41,6 @@ AngieQP1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Angie
 - STATA (Advanced😎)
 - R (Intermediate👍)
 - PYTHON (Intermediate👍)
-- MATLAB(Basic🙊)
 
 
 <!---
